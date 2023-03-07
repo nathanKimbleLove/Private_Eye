@@ -1,0 +1,26 @@
+.message {
+  color: #E5E3D0;
+  margin: 0;
+}
+
+.message-text {
+  border: 1px solid #E5E3D0;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0;
+  width: 90%;
+}
+
+.username {
+  color: #C1DBC3;
+  font-size: small;
+  margin: 0;
+}
+
+
+.notif {
+  color: #D61C18;
+}
+.notif-text {
+  color: #D61C18;
+}

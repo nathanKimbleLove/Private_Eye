@@ -1,0 +1,23 @@
+.player {
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.player.out {
+  background-color: #173336;
+  border-color: #b3b09c;
+  color: #b3b09c;
+}
+
+.player.in{
+  background-color: #31655C;
+  border-color: #97BEA9;
+  color: #97BEA9;
+}
+
+.selected {
+  background-color: #173336;
+  border-color: #D61C18;
+  color: #D61C18;
+}

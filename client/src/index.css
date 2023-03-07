@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* our stylings */
+  font-family: 'Poppins', sans-serif;
+  background-color: #0E1921;
+  color: #E5E3D0;
+}
+
+/*
+drk brn 291C1D
+brn 3F1A15
+lt brn 622B25
+
+rd D61C18
+beige E5E3D0
+l grn C1DBC3
+teal 97BEA9
+
+grn 31655C
+bl 173336
+drk bl 0E1921
+*/

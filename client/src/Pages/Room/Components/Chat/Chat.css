@@ -1,0 +1,35 @@
+.sidebar {
+  align-items: center;
+  border-right: 1px solid #3F1A15;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 250px;
+}
+
+.room-id {
+  background-color: #173336;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  padding: 5px;
+  width: 90%;
+}
+
+.chat {
+  background-color: #173336;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 85vh;
+  padding: 5px;
+  width: 90%;
+}
+
+.messages {
+  height: 95vh;
+  overflow-y: auto;
+  overflow-x:hidden
+}

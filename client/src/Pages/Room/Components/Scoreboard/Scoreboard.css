@@ -1,0 +1,21 @@
+.scoreboard {
+  align-items: center;
+  border-top: 1px solid #3F1A15;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.players-in {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+.players-out {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
